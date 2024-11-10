@@ -48,20 +48,11 @@ Python 3.x
 
 YouTube Data API key (obtain from the Google Developer Console)
 
-## Getting Started
-Generate an API Key: Sign up for a YouTube Data API key from the Google Developer Console.
-Run the Script:
-Add the API key and target channel IDs in the config.py file.
-Execute the main script:
-bash
-Copy code
-python main.py
-
 ## Data Structure
 The project extracts two main types of data:
 
 Channel-Level Data: Essential channel information like Channel_Name, Subscribers, Views, Total_Videos, and Playlist_ID.
-Video-Level Data for The Weeknd: Using playlist IDs, this project extracts specific video data, including Title, Published_Date, Views, Likes, Comments, and Month_Published.
+Video-Level Data for The Weeknd: Using playlist IDs, this project extracts specific video data, including Title, Published_Date, Views, Likes, Comments, and Month.
 This data structure is designed to be flexible, so additional YouTube channels or data columns can be added as needed.
 
 ## Visualizations
