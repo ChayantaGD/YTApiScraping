@@ -1,6 +1,7 @@
 # YouTube Data Scraping and Analysis Project
 
 With the rise of social media analytics, YouTube channel data has become invaluable for understanding audience engagement, video performance, and content trends. This project aims to make gathering and analyzing YouTube data seamless, transforming raw metrics into meaningful insights. By using Python and the YouTube Data API, this project automates data collection and visualization, making it easy to uncover trends across multiple YouTube channels.
+
 ![panda](https://github.com/user-attachments/assets/11e49cb0-f83a-400c-9359-d01fea4fbaee)
 
 ## Table of Contents
