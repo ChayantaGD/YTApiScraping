@@ -4,21 +4,31 @@ With the rise of social media analytics, YouTube channel data has become invalua
 ![panda](https://github.com/user-attachments/assets/11e49cb0-f83a-400c-9359-d01fea4fbaee)
 
 ## Table of Contents
+
 Project Background
+
 What This Project Does
+
 Getting Started
+
 Data Structure
+
 Visualizations
+
 Libraries Used
+
 Expanding the Project
+
 Contributing
 
 ## Project Background
+
 Understanding how YouTube channels perform can be key to refining content strategies, identifying audience preferences, and evaluating the effectiveness of specific videos. However, gathering and analyzing YouTube data manually is both time-consuming and complex. This project was built to streamline that process, providing a structured way to scrape and visualize YouTube data at scale, transforming it into actionable insights.
 
 The project is centered on gathering metrics from The Weeknd’s YouTube channel while demonstrating the power of data-driven insights for any YouTube content. This analysis isn’t limited to fan curiosity—it’s a foundation for anyone wanting to improve content engagement, assess market trends, or track audience growth.
 
 ## What This Project Does
+
 The project serves as a data collection and analysis tool that pulls key YouTube metrics from multiple channels. Specifically, it:
 
 Retrieves Channel Data: Collects foundational metrics like total subscribers, view count, video count, and playlist IDs across multiple channels.
@@ -27,11 +37,15 @@ Interactive Data Visualization: Includes both static and interactive graphs to g
 Whether you’re a digital marketer, content creator, or data enthusiast, this project can help you answer questions like:
 
 Which videos have the highest engagement?
+
 How do engagement metrics like views and likes correlate?
+
 What publishing trends appear over time?
 
 ## Prerequisites
+
 Python 3.x
+
 YouTube Data API key (obtain from the Google Developer Console)
 
 ## Getting Started
@@ -56,31 +70,46 @@ The visualizations turn raw YouTube data into insights across engagement metrics
 Channels Overview:
 
 YouTube Channels by Subscriber Count (bar)
+
 YouTube Channels by View Count (bar)
+
 YouTube Channels by Videos Uploaded (bar)
 
 The Weeknd’s Video Insights:
 
 Top 10 Most Viewed Videos (bar)
+
 Videos Released per Month (bar)
+
 Views vs. Likes (interactive scatterplot) – Explore relationships between views and likes.
+
 Total Views per Month (interactive bar) – Monthly video views to identify publishing trends.
+
 Distribution of Views for Top 10 Most Viewed Videos (interactive boxplot) – Shows view distribution patterns.
+
 Average Likes per Month (interactive line) – Monthly engagement trend via likes.
+
 Distribution of Likes for Top 10 Most Viewed Videos (interactive pie chart) – Visualizes like distribution across top videos.
 
 ## Libraries Used
+
 Pandas: For data manipulation and storage.
+
 Matplotlib and Seaborn: For static, descriptive visualizations.
+
 Plotly Express: For creating interactive graphs, ideal for exploratory data analysis.
+
 Google API Client: Used to access the YouTube Data API, allowing for real-time data scraping.
 
 ## Expanding the Project
 Future enhancements include:
 
 Adding sentiment analysis on comments for deeper audience insights.
+
 Expanding the scraping scope to include more channels and playlists.
+
 Creating time-series visualizations to track long-term trends.
+
 This project is a versatile tool for anyone needing robust YouTube data for trend analysis, content evaluation, or social media strategy.
 
 ## Contributing
