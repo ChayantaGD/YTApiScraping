@@ -16,6 +16,8 @@ Data Structure
 
 Visualizations
 
+Recommendations
+
 Libraries Used
 
 Expanding the Project
