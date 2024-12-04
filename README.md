@@ -83,6 +83,15 @@ Average Likes per Month (interactive line) – Monthly engagement trend via like
 
 Distribution of Likes for Top 10 Most Viewed Videos (interactive pie chart) – Visualizes like distribution across top videos.
 
+## Recommendations
+
+Recommendations for further investigation:
+
+- Content strategy: Analyze correlation between video types and engagement metrics
+- Optimal publishing times: Investigate if certain months or days yield higher engagement
+- Audience retention: Examine relationship between video duration and view count
+- Cross-channel comparison: Compare The Weeknd's performance metrics with other analyzed channels
+  
 ## Libraries Used
 
 Pandas: For data manipulation and storage.
